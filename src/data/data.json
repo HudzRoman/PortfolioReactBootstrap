@@ -1,0 +1,101 @@
+{
+    "Header": {
+
+        "title": "Web development",
+        "paragraph": "Front-End website and application development"
+
+    },
+    "About": {
+        "paragraph": "I create good looking, user-friendly websites that perform well on any device. I always strive to do my work according to the best practices. I am diligent and attentive to details.My primary strengths are in writing solid code that solves the right problems, and driving results for my clients. Working on the project, I strictly follow the deadlines and implement all the requirements of the customer.",
+        "Why": [
+            "Attentive to consumers",
+            "Responsive Design",
+            "Timely Completion",
+            "Innovative Solutions"
+        ],
+        "Why2": [
+            "Honesty and Integrity",
+            "Flexibility",
+            "Quality at a reasonable  price",
+            " We truly understand that your success IS our success"
+        ]
+    },
+    "Services": [{
+            "img": "img/servises/12.svg",
+            "name": "Сreating a LANDING PAGE",
+            "text": "An effective one-page landing page is an ideal solution for launching an action, presenting several products and services on the site."
+        },
+        {
+            "img": "img/servises/11.svg",
+            "name": "Online business card",
+            "text": "These are 5 - 10 Internet pages, which present your proposals, information about the company, terms of cooperation, and much more that can characterize a business card site!"
+        },
+        {
+            "img": "img/servises/02.svg",
+            "name": "Сatalog",
+            "text": "A catalog site is an independent resource with all the necessary set of functions, on which all offered products are presented in a list, and sometimes even with a division into categories."
+        },
+        {
+            "img": "img/servises/03.svg",
+            "name": "Online store creation",
+            "text": "The resource is adapted for a large flow of users and the corresponding load."
+        },
+        {
+            "img": "img/servises/10.svg",
+            "name": "Creation of a corporate website",
+            "text": "Corporate website displaying the company's image."
+        },
+        {
+            "img": "img/servises/01.svg",
+            "name": "Opencart website",
+            "text": "Online store based on a ready-made CMS."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Ivan Ivanov"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/02.jpg",
+            "name": "Roman Hudz",
+            "job": "Front-End developer"
+        }
+    ],
+    "Contact": {
+        "address": "Kharkov ",
+        "phone": "+38 093 145 53 57",
+        "email": "rshudz@gmail.com",
+        "facebook": "https://www.facebook.com/roman.hudz.50",
+        "instagram": "instagram.com",
+        "linkedin": "youtube.com"
+    }
+}
